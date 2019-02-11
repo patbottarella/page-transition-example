@@ -1,0 +1,33 @@
+.Content {
+  text-align: center;
+  max-width: 250px;
+  max-height: 200px;
+  display: inline-block;
+  margin: 30px;
+}
+
+.Content:hover {
+  cursor: pointer;
+}
+
+.Wrapper {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.Link {
+  color: black;
+}
+
+.ImageWrapper {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.TextWrapper {
+  width: 100%;
+}
+
+.ProductImage {
+  width: 100%;
+}
